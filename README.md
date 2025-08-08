@@ -18,7 +18,7 @@ The system allows for configuring cutting parameters (profile type, length, quan
 ## Repository Structure
 
 - **docs/**: Full PDF report and sections in Markdown.
-- **src/**: Source code (`c_sf_mk2.ino`) and required libraries.
+- **src/**: Source code (`csf_mk2.ino`) and required libraries.
 - **images/**: System diagrams and screenshots (if available).
 
 ## Instructions for Using the Code
